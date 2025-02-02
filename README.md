@@ -5,7 +5,7 @@ _Please note that since the notebook has been downloaded from the DataCamp platf
 
 # Documents in this repository
 
-In this repository, besides this README document, there are two files. One of them is the online_retail.csv file which contains data relating the online orders that a business received over the course of a year. I have pretended that I am the manager of this business and want to find out some information about the orders "I" have received over the year. The other file is a notebook. 
+In this repository, besides this README document, there are two files. The original raw data (online_retail.csv) file which contains data relating the online orders that a business received over the course of a year is too large to be uploaded to GitHub, so I have uploaded a .zip of this file. I have pretended that I am the manager of this business and want to find out some information about the orders "I" have received over the year. The other file is a notebook. 
 
 The notebook contains the code I wrote to preview the dataset, the report writing I did between queries, and the results of those queries. 
 
