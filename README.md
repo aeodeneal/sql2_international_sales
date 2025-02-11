@@ -1,4 +1,4 @@
-# sql_project_2
+# SQL Project 2: International Online Sales
 A project using a public dataset to practice writing queries to answer real examples of business questions. Unlike the other SQL project I have completed, I started with the raw dataset here and came up with the questions myself. 
 
 _Please note that since the notebook has been downloaded from the DataCamp platform, and it contains code, the 'Code' tab of the notebook.ipynb file does not contain the code I wrote, but rather the code for the notebook._
